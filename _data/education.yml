@@ -1,5 +1,12 @@
 # Degree
-
 - degree: Bachelor
   uni: BSU
   year: 2017
+
+# TrCenter
+  uni: EPAM training center(ASP.NET)
+  year: 2019
+
+# Lab
+  uni: EPAM lab(ASP.NET)
+  year: 2019
